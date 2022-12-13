@@ -3,3 +3,4 @@ print current active user
 groups
 new owner
 empty!
+execute
