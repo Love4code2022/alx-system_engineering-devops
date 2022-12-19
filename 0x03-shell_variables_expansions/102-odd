@@ -1,0 +1,2 @@
+#!/bin/bang
+paste -d" " | cut -d " " f 1
